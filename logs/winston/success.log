@@ -1,0 +1,15 @@
+{"level":"info","message":"Database connection successfully","service":"user-service"}
+{"level":"info","message":"Example app listening on port 5000","service":"user-service"}
+
+{"level":"info","message":"Database connection successfully","service":"user-service"}
+{"level":"info","message":"Example app listening on port 5000","service":"user-service"}
+{"level":"info","message":"Database connection successfully","service":"user-service"}
+{"level":"info","message":"Example app listening on port 5000","service":"user-service"}
+{"level":"info","message":"Database connection successfully","service":"user-service"}
+{"level":"info","message":"Example app listening on port 5000","service":"user-service"}
+{"level":"info","message":"Database connection successfully","service":"user-service"}
+{"level":"info","message":"Example app listening on port 5000","service":"user-service"}
+2023-06-02T21:49:19.150Z [right meow!] info: Database connection successfully
+2023-06-02T21:49:19.158Z [right meow!] info: Example app listening on port 5000
+2023-06-02T21:49:33.588Z [right meow!] info: Database connection successfully
+2023-06-02T21:49:33.593Z [right meow!] info: Example app listening on port 5000
